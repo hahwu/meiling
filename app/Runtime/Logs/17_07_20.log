@@ -1,0 +1,6 @@
+[ 2017-07-20T14:20:43+08:00 ] 211.162.236.180 /excel/index.php/Wx/sycm_day
+ERR: 参数错误或者未定义:sycm
+
+[ 2017-07-20T17:53:24+08:00 ] 101.226.99.196 /excel/index.php/index/impuser.html
+ERR: 无法加载模块:index
+

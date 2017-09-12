@@ -1,0 +1,12 @@
+[ 2017-06-15T10:28:43+08:00 ] 59.57.165.39 /excel/index.php/Wx
+ERR: 非法操作:index
+
+[ 2017-06-15T10:29:19+08:00 ] 106.120.161.68 /excel/index.php/Wx
+ERR: 非法操作:index
+
+[ 2017-06-15T15:44:20+08:00 ] 59.57.165.39 /excel/index.php/Wx/sycm_year
+ERR: 非法操作:sycm_year
+
+[ 2017-06-15T19:27:00+08:00 ] 115.172.168.180 /excel/index.php/Wx/month_sycm
+ERR: 非法操作:month_sycm
+

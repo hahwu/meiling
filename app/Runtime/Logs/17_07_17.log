@@ -1,0 +1,12 @@
+[ 2017-07-17T16:59:11+08:00 ] 115.172.168.180 /excel/index.php/Wx/sycm_day?date=2017-07-10
+ERR: 参数错误或者未定义:sycm
+
+[ 2017-07-17T16:59:19+08:00 ] 115.172.168.180 /excel/index.php/Wx/sycm_day?date=NaN-NaN-NaN
+ERR: 参数错误或者未定义:sycm
+
+[ 2017-07-17T16:59:20+08:00 ] 115.172.168.180 /excel/index.php/Wx/sycm_day?date=NaN-NaN-NaN
+ERR: 参数错误或者未定义:sycm
+
+[ 2017-07-17T16:59:20+08:00 ] 115.172.168.180 /excel/index.php/Wx/sycm_day?date=NaN-NaN-NaN
+ERR: 参数错误或者未定义:sycm
+
